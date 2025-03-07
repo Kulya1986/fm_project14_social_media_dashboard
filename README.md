@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Kulya1986/fm_project14_social_media_dashboard](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://social-media-dashboard-by-kulya86.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
