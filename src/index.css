@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-inter: "Inter", sans-serif;
+  --color-app_positive: #1db489;
+  --color-app_negative: #dc414c;
+  --color-app_facebook: #198ff5;
+  --color-app_twitter: #1ca0f2;
+  --color-app_instagram_yellow: #fdc468;
+  --color-app_instagram_rose: #df4996;
+  --color-app_youtube: #c4032a;
+  --color-dark_toggle_blue: #378fe6;
+  --color-dark_toggle_green: #3eda82;
+  --color-light_toggle: #aeb3cb;
+  --color-dark-bg: #1e202a;
+  --color-dark-bg-top: #20222f;
+  --color-dark-bg-card: #252a41;
+  --color-dark-copy-1: #8c98c6;
+  --color-dark-copy-2: #ffffff;
+  --color-light-bg: #ffffff;
+  --color-light-bg-top: #f7f9ff;
+  --color-light-bg-card: #f0f2fa;
+  --color-light-copy-1: #63687e;
+  --color-light-copy-2: #1e202a;
+
+  --breakpoint-2xl: 90rem;
+}
